@@ -1,0 +1,15 @@
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #7fd6ae;
+  color: rgb(103, 118, 233);
+  scroll-behavior: smooth;
+}
+
+.glassmorphism {
+  backdrop-filter: blur(8px);
+  background: rgba(104, 3, 3, 0.05);
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
